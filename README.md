@@ -21,6 +21,15 @@ To know more about pytorch [visit](https://pytorch.org/docs/stable/index.html).
 * The images must be of same shape(This can be done using opencv as shown in model file).
 * Run the notebook to get the output.(Here,the model is trained on GPU you can also use CPU instead).
 ## Output
+##### Content Image
 
+<img height="400" width="350" src="https://github.com/nehasm/Neural-Style-Transfer-Using-Pytorch/blob/master/image4.jpg">
 
+##### Style Image
+
+<img  height="400" width="350" src="https://github.com/nehasm/Neural-Style-Transfer-Using-Pytorch/blob/master/style1.jpeg">
+
+##### Output Image
+
+<img  height="400" width="350" src="https://github.com/nehasm/Neural-Style-Transfer-Using-Pytorch/blob/master/output.PNG">
 
